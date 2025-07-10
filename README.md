@@ -1,5 +1,12 @@
-# 💫 About Me:
-I'm currently a Computer Science Student. I'm doing my 3 year in BSc in Reykjavík University. I am also doing a Bussiness degree also in Reykjavík university.<br>My interests are with data science and cyber security.<br><br>I plan to finnish my CS degree spring 2025 and my Bussiness degree in the spring of 2026.<br><br>
+🎓 I'm a Computer Scientist and Business student at Reykjavík University. I graduated with a BSc in Computer Science in spring 2025 and am currently completing a BSc in Business, expected spring 2026.
+
+🔐 My interests lie in cybersecurity and data science. I enjoy building systems that scale and contribute to digital resilience.
+
+🧠 My final CS project was **Völva** — a distributed national network scanner. It supports horizontal port scanning, public awareness, and digital risk monitoring. You can find the source code and related material here: [github.com/volvan](https://github.com/volvan)
+
+🌐 Völva is open for academic, educational, and research use under the FrostByte Research Laboratory License v1.3. It was funded by the European Union’s Defend Iceland grant and aims to support proactive cybersecurity at scale.
+
+---
 
 
 # 💻 Tech Stack:
