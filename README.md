@@ -1,53 +1,36 @@
-# Marteinn Lundi
+<img src="assets/banner.png" alt="Marteinn Lundi. MSc Cybersecurity student. Sysadmin and security researcher at Frostbyte." width="100%">
 
-**MSc Cybersecurity student · Security researcher at [Frostbyte](https://www.frostbyte.is/)** — the cybersecurity research lab run jointly by Reykjavík University and the University of Iceland.
+I build security tools from the ground up and then measure whether they do what they claim. I hold a BSc in Computer Science and a BSc in Business from Reykjavík University, and I am now doing an MSc in Cybersecurity while working at [Frostbyte](https://www.frostbyte.is/), the cybersecurity research lab run jointly by Reykjavík University and the University of Iceland.
 
----
+<!-- When the portfolio site is live, uncomment the next line and put in its address.
+**Full portfolio: [your-domain.example](https://your-domain.example/)**
+-->
 
-### About
+## Projects
 
-Computer scientist and business graduate working in applied cybersecurity research. I hold a BSc in Computer Science (Reykjavík University, 2025) and a BSc in Business (Reykjavík University, 2026), and I'm currently pursuing an MSc in Cybersecurity while researching at Frostbyte.
+| Project | What it is | Built with |
+|---------|------------|------------|
+| [Völva](https://github.com/volvan) | A distributed scanner that maps Iceland's public IPv4 exposure. BSc thesis, funded by the EU's *Defend Iceland* grant. | [YOUR STACK] |
+| [soc-in-a-box](https://github.com/marteinnlundi/soc-in-a-box) | A security operations pipeline built from scratch: telemetry, detection rules, case management and host triage. | Go, C (eBPF), Python, TypeScript, Rust |
+| [cross-session-memory-injection](https://github.com/marteinnlundi/cross-session-memory-injection) | Does a prompt injection that an AI agent saves to memory in one conversation change what it does in the next? Paper under review. | Python, AgentDojo |
+| [fair-sensitivity](https://github.com/marteinnlundi/fair-sensitivity) | A Monte Carlo study of how stable FAIR-based security investment decisions are when the inputs are wrong. Paper under review. | Python, NumPy, SciPy |
 
----
+## Research
 
-### Featured work
+- **Culture eats policy for breakfast: how organizational security culture shapes the gap between training intent and enacted practice.** BSc Business thesis, Reykjavík University, 2026. [Skemman](https://skemman.is/handle/1946/53420)
+- **Völva.** BSc Computer Science thesis, Reykjavík University, 2025. [Skemman](https://skemman.is/handle/1946/50479)
 
-**🛰️ Völva — National-scale network exposure scanner**
-A distributed scanner that maps and monitors Iceland's public IPv4 space through continuous, ethical reconnaissance: live-host discovery, horizontal TCP port scanning, and service-metadata summarisation. Built with queue-based distributed workers, encrypted storage, and a public dashboard of anonymised exposure trends. Developed at Reykjavík University and funded by the EU's *Defend Iceland* grant.
-&nbsp;&nbsp;↳ Code: [github.com/volvan](https://github.com/volvan) · Thesis: [Skemman](https://skemman.is/handle/1946/50479) <!-- TODO: confirm this is the Völva (CS) thesis link -->
+## What I work with
 
-**🛡️ Security culture and the awareness–practice gap** <!-- TODO: replace with exact thesis title -->
-A qualitative multiple-case study across three Icelandic organisations examining why security-awareness training often fails to change behaviour, and how organizational security culture mediates the gap between intended policy and enacted practice. Findings map onto Schein's three-level culture model, showing how cultural mechanisms — shared responsibility, no-blame reporting, leadership modelling — determine whether knowledge becomes sustained practice.
-&nbsp;&nbsp;↳ Thesis: [Skemman](https://skemman.is/handle/1946/53420) <!-- TODO: confirm this is the business thesis link -->
+| | |
+|---|---|
+| **Languages** | Python, Go, C, Bash, TypeScript, Rust |
+| **Infrastructure** | Linux, Docker, Kubernetes, PostgreSQL, RabbitMQ, Grafana |
+| **Security** | Network scanning, detection engineering, eBPF telemetry, incident response tooling, LLM agent security, cyber risk quantification (FAIR) |
 
----
+## Connect
 
-### Core tools
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### GitHub activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=marteinnlundi&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marteinnlundi&layout=compact&hide_border=true&theme=transparent&count_private=true)
-
----
-
-### Connect
-
-[![Website](https://img.shields.io/badge/FrostByte-1f2937?style=flat-square&logo=icloud&logoColor=white)](https://www.frostbyte.is/)
-<!-- TODO: add the links you want shown, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
+[Frostbyte](https://www.frostbyte.is/)
+<!-- Add more here, separated by " · " or on new lines, for example:
+[LinkedIn](https://www.linkedin.com/in/your-handle)
 -->
