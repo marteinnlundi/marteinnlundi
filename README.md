@@ -17,13 +17,6 @@ Projects, research and background in full: **[your-domain.example](https://your-
 
 ---
 
-### GitHub activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=marteinnlundi&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marteinnlundi&layout=compact&hide_border=true&theme=transparent&count_private=true)
-
----
-
 ### Connect
 
 [![Frostbyte](https://img.shields.io/badge/Frostbyte-10212e?style=flat-square)](https://www.frostbyte.is/)
